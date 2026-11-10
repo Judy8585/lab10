@@ -1,0 +1,15 @@
+version: 1
+
+project:
+  id: e22701e8-40e3-45b4-aad9-975d76912ecb
+  title: "2026 Winter Olympics Schedule Analysis"
+  github: https://github.com/Judy8585/lab10
+  toc:
+    - file: index.md
+    - file: venue_analysis.ipynb
+    - file: discipline_analysis.md
+
+site:
+  template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
+
+
